@@ -26,8 +26,7 @@ The **JS Drum Kit** is an interactive web-based drum simulator that allows users
 ```
 JS-Drum-Kit/
 │── assets/
-│   ├── sounds/      # Folder containing all drum sound files
-│   ├── background.jpg  # Background image used in UI
+|── sounds/      # Folder containing all drum sound files
 │── index.html  # Main HTML file
 │── style.css   # Styling file
 │── script.js   # JavaScript file for interactivity
