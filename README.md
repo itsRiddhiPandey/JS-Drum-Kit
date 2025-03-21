@@ -48,7 +48,6 @@ JS-Drum-Kit/
 ### 🎹 Drum Kit Interface
 ![JS Drum Kit Screenshot](./assets/Js-Drum-Kit-Interface.png)
 
-<br>
 ![JS Drum Kit Screenshot](./assets/Js-Drum-Kit-keydown.png)
 
 
